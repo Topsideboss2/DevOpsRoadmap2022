@@ -169,6 +169,7 @@ AWS Budgets gives you the ability to set custom budgets that alert you when your
 ## Compute Services
 **Topics**
  * [Amazon EC2](https://github.com/Topsideboss2/DevOpsRoadmap2022/blob/main/Topsideboss2/aws.md#amazon-ec2)
+ * [Amazon EC2 Auto Scaling](https://github.com/Topsideboss2/DevOpsRoadmap2022/blob/main/Topsideboss2/aws.md#amazon-ec2-auto-scaling)
  * [Amazon App Runner](https://github.com/Topsideboss2/DevOpsRoadmap2022/blob/main/Topsideboss2/aws.md#amazon-app-runner)
  * [AWS Elastic Beanstalk](https://github.com/Topsideboss2/DevOpsRoadmap2022/blob/main/Topsideboss2/aws.md#aws-elastic-beanstalk)
  * [AWS Fargate](https://github.com/Topsideboss2/DevOpsRoadmap2022/blob/main/Topsideboss2/aws.md#aws-fargate)
@@ -190,7 +191,7 @@ Instance Types:
 
 ![](images/EC2-DedicatedHosts.png)
 
-### * [Amazon EC2 Auto Scaling](https://github.com/Topsideboss2/DevOpsRoadmap2022/blob/main/Topsideboss2/aws.md#amazon-ec2-auto-scaling)
+### Amazon EC2 AutoScaling
 Amazon EC2 Auto Scaling helps you maintain application availability and allows you to automatically add or remove EC2 instances according to conditions you define.
 
 ![](images/EC2-AutoScaling.png)
